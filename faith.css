@@ -1,31 +1,31 @@
 .controller.xbox {
-    background: url(xboxskin.github.io/base.png);
+    background: url(nerxxy.github.io/xboxskin-faith/base.png);
 }
 
 .xbox.disconnected {
-    background: url(xboxskin.github.io/disconnected.png);
+    background: url(nerxxy.github.io/xboxskin-faith/disconnected.png);
 }
 
 .xbox .trigger {
-    background: url(https://cdn.discordapp.com/attachments/809097083088928810/809113209059147787/trigger.png);
+    background: url(nerxxy.github.io/xboxskin-faith/trigger.png);
 }
 
 .xbox .bumper {
-    background: url(https://cdn.discordapp.com/attachments/809097083088928810/809113204222328852/bumper.png);
+    background: url(nerxxy.github.io/xboxskin-faith/bumper.png);
 }
 
 .xbox .back, .xbox .start {
-    background: url(https://cdn.discordapp.com/attachments/809097083088928810/809113207041294426/start-select.png);
+    background: url(nerxxy.github.io/xboxskin-faith/start-select.png);
 }
 
 .xbox .button {
-    background: url(https://cdn.discordapp.com/attachments/809097083088928810/809113199386951741/abxy.png);
+    background: url(nerxxy.github.io/xboxskin-faith/abxy.png);
 }
 
 .xbox .stick {
-    background: url(https://cdn.discordapp.com/attachments/809097083088928810/809113208597250098/stick.png);
+    background: url(nerxxy.github.io/xboxskin-faith/stick.png);
 }
 
 .xbox .face {
-    background: url(https://cdn.discordapp.com/attachments/809097083088928810/809113205556641802/dpad.png);
+    background: url(nerxxy.github.io/xboxskin-faith/dpad.png);
 }
