@@ -1,0 +1,31 @@
+.controller.xbox {
+    background: url(https://nerxxy.github.io/xboxskin-faith/Controller/base.png};
+}
+
+.xbox.disconnected {
+    background: url(https://nerxxy.github.io/xboxskin-faith/Controller/disconnected.png);
+}
+
+.xbox .trigger {
+    background: url(https://nerxxy.github.io/xboxskin-faith/Controller/trigger.png);
+}
+
+.xbox .bumper {
+    background: url(https://nerxxy.github.io/xboxskin-faith/Controller/bumper.png);
+}
+
+.xbox .back, .xbox .start {
+    background: url(https://nerxxy.github.io/xboxskin-faith/Controller/start-select.png);
+}
+
+.xbox .button {
+    background: url(https://nerxxy.github.io/xboxskin-faith/Controller/abxy.png);
+}
+
+.xbox .stick {
+    background: url(https://nerxxy.github.io/xboxskin-faith/Controller/stick.png);
+}
+
+.xbox .face {
+    background: url(https://nerxxy.github.io/xboxskin-faith/Controller/dpad.png);
+}
